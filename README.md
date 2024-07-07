@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6689a257501413692baa15eb?variant=dark&roadmaps=python%2Crust)](https://roadmap.sh)
+
 <!--
 **Ablesius/Ablesius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
