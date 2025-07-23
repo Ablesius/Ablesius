@@ -1,5 +1,12 @@
 # Hi there 👋
 
+I'm a computational linguist and software developer.
+Most of my work so far has been in Python, with a focus on Natural Language Processing and Machine Learning.
+I'm trying to move away from that!
+
+## 😄 Pronouns
+
+I use they/them pronouns! In German you can use any that are not male or female gendered. Check out my [pronouns.page](https://de.pronouns.page/@LexiBlesius) for more details or languages!
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6689a257501413692baa15eb?variant=dark&roadmaps=python%2Crust)](https://roadmap.sh)
 
