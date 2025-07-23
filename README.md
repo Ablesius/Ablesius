@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 Not anything paid at least, since I'm currently unemployed. Looking to work with me? Send me a mail at `my_first_name<at>my_last_name.eu`!
 My most recent project is [vampire-charact-rs](https://github.com/Ablesius/vampire-charact-rs), a character sheet manager for Vampire: The Masquerade.
 
+## 🌱 I’m currently learning ...
 
-<!-- ## 🌱 I’m currently learning ... -->
-
+Mostly Rust, but also some web development basics.
+I want to learn to create a web UI for my character manager!
